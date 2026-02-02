@@ -150,3 +150,9 @@ vite.config.ts.timestamp-*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# AI Skills
+.claude/
+.codex/
+.github/prompts/
+.opencode/

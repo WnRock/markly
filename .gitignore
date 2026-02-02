@@ -156,3 +156,7 @@ next-env.d.ts
 .codex/
 .github/prompts/
 .opencode/
+
+# Local Documents
+*.md
+!README.md
